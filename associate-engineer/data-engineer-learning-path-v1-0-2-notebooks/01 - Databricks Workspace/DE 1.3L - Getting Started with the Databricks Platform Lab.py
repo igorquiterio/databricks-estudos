@@ -135,6 +135,14 @@ display(example_df)
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC #this is a header
+# MAGIC - bullet 1
+# MAGIC - bullet 2
+# MAGIC
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC
 # MAGIC ## Run a SQL cell
 # MAGIC
